@@ -18,7 +18,7 @@ Algorithm to maximize and minimize the arithmetic expressions by adding missing 
 - [Depth-first search](https://en.wikipedia.org/wiki/Depth-first_search), recursive and non recursive implementation with stack. Also, prints each vertex discovery and finishing times.
 - [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search), recursive implementation.
 
-Sample graph also added.
+Sample graph is also added.
 
 ### Edit distance
 Implementation of [Damerau–Levenshtein distance](https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance) - distance between two strings, i.e., finite sequence of symbols, given by counting the minimum number of operations needed to transform one string into the other, where an operation is defined as an insertion, deletion, or substitution of a single character, or a transposition of two adjacent characters.
