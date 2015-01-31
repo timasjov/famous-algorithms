@@ -22,3 +22,7 @@ Sample graph is also added.
 
 ### Edit distance
 Implementation of [Damerau–Levenshtein distance](https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance) - distance between two strings, i.e., finite sequence of symbols, given by counting the minimum number of operations needed to transform one string into the other, where an operation is defined as an insertion, deletion, or substitution of a single character, or a transposition of two adjacent characters.
+
+### Clustering
+- [DBSCAN](https://en.wikipedia.org/wiki/DBSCAN) - pure and simple implementation from pseudocode.
+- [OPTICS](https://en.wikipedia.org/wiki/OPTICS_algorithm) - implementation produces hierarchical structure of the clusters by creating dendrogram and examining steep down and steep up areas.
