@@ -1,5 +1,5 @@
 # Collection of simple everyday algorithms
-A set of everyday algorithms. Majority of algorithms implemented in Python, however, some of them are also in Groovy or Java. Majority of implementations in Python (especially scientific algorithms) require several dependencies: __numpy, matplotlib, scipy__.
+A set of everyday algorithms. Majority of algorithms are implemented in Python, however, some of them are also in Groovy or Java. Majority of implementations in Python (especially scientific algorithms) require several dependencies: __numpy, matplotlib, scipy__.
 
 ### Sorting
 - [Quicksort](https://en.wikipedia.org/wiki/Quicksort), typical divide and conquer implementation. On average runs in *O(n log(n))* time complexity, where *n* is problem size.
