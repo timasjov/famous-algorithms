@@ -26,3 +26,15 @@ Implementation of [Damerau–Levenshtein distance](https://en.wikipedia.org/wiki
 ### Clustering
 - [DBSCAN](https://en.wikipedia.org/wiki/DBSCAN) - pure and simple implementation from pseudocode.
 - [OPTICS](https://en.wikipedia.org/wiki/OPTICS_algorithm) - implementation produces hierarchical structure of the clusters by creating dendrogram and examining steep down and steep up areas.
+
+### Scientific algorithms
+- [LU-factorisation](https://en.wikipedia.org/wiki/LU_decomposition) - function that performs LU-factorisation of a given matrix A = LU.
+- [Gaussian elimination](https://en.wikipedia.org/wiki/Gaussian_elimination) - implementation of partial pivoting in the Gauss elimination method.
+- [Curve fitting](https://en.wikipedia.org/wiki/Curve_fitting) - simple 2 degree polynomial fit.
+- [Gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) - implementation of Gradient Descent algorithm with example function and initial guess.
+- [Jacobi method](https://en.wikipedia.org/wiki/Jacobi_method) - function that solves the system of linear equations using Jacobi method. The function takes a sparse matrix and a right-hand side vector.
+- [1D Laplacian matrix](https://en.wikipedia.org/wiki/Laplacian_matrix) - function that generates 1D Laplace matrix using Dirichlet boundary conditions.
+- [2D Laplacian matrix](https://en.wikipedia.org/wiki/Laplacian_matrix) - function that generates 2D Laplace matrix using Dirichlet boundary conditions.
+- [Conjugate gradient method](https://en.wikipedia.org/wiki/Conjugate_gradient_method) - Conjugate Gradient method with preconditioning for solving sparse linear systems. Is location under other project [here](https://github.com/timasjov/2d-wave-equation/blob/master/cg.py).
+
+
